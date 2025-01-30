@@ -521,11 +521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sathish.gajula\\source\\repos\\oDataWebApi\\oDataWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\sathish.gajula\\source\\repos\\bitbucket\\odatawebapi\\oDataWebApi.csproj",
       "projectName": "oDataWebApi",
-      "projectPath": "C:\\Users\\sathish.gajula\\source\\repos\\oDataWebApi\\oDataWebApi.csproj",
+      "projectPath": "C:\\Users\\sathish.gajula\\source\\repos\\bitbucket\\odatawebapi\\oDataWebApi.csproj",
       "packagesPath": "C:\\Users\\sathish.gajula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sathish.gajula\\source\\repos\\oDataWebApi\\obj\\",
+      "outputPath": "C:\\Users\\sathish.gajula\\source\\repos\\bitbucket\\odatawebapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sathish.gajula\\AppData\\Roaming\\NuGet\\NuGet.Config",

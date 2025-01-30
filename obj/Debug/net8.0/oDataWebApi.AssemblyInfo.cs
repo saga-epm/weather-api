@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oDataWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c06979e70bf111271303f2b25cd87e2c983dae99")]
 [assembly: System.Reflection.AssemblyProductAttribute("oDataWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oDataWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
