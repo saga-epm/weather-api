@@ -50,3 +50,5 @@ Thumbs.db
 
 /.vs/oDataWebApi
 obj
+/obj/Debug/net8.0/oDataWebApi.AssemblyInfo.cs
+/obj/Debug/net8.0/oDataWebApi.AssemblyInfoInputs.cache
