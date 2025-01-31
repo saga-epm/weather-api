@@ -1,8 +1,9 @@
 ﻿apiVersion: apps/v1
 kind: Deployment
-namespace: weather-api-namespace
 metadata:
   name: weather-api-deployment
+  labels:
+    app: weather-api
 spec:
   replicas: 1  
   selector:
@@ -15,7 +16,7 @@ spec:
     spec:
       containers:
       - name: weather-api-container
-        image: sathishkumar6/apis:weatherapi
+        image: docker.io/sathishkumar6/apis:weatherapi
         ports:
         - containerPort: 8080
 
