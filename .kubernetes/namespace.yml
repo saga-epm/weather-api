@@ -1,0 +1,6 @@
+﻿kind: Namespace
+apiVersion: v1
+metadata:
+  name: weather-api-namespace
+  labels:
+    name: weather-api-namespace

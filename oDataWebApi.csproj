@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include=".kubernetes\namespace.yml" />
     <None Include=".kubernetes\service.yml" />
     <None Include=".kubernetes\deployment.yml" />
   </ItemGroup>

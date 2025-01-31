@@ -4,6 +4,7 @@ metadata:
   name: weather-api-deployment
 spec:
   replicas: 1
+  namespace: weather-api-namespace
   selector:
     matchLabels:
       app: weather-api

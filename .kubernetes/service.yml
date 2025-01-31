@@ -1,5 +1,6 @@
 ﻿apiVersion: v1
 kind: Service
+namespace: weather-api-namespace
 metadata:
   name: weather-api-service
 spec:
